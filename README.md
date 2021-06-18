@@ -19,7 +19,7 @@ You are now free to create a branch of this project, learn how it works or use i
 ### Documents -
 You may notice that, on running the program, it tries to look for 'dir/' but cannot find it. This is because GitHub does let you upload empty folders sometimes. I trust that you can create an empty folder in the name of "dir" as shown below:
 
-
+![image](https://user-images.githubusercontent.com/56489848/122488049-908b5980-cfd4-11eb-9fb0-aae620ae4796.png)
 
 `/dir/`
 
